@@ -8,9 +8,9 @@
 
 </div>
 
-I'm a Full Stack developer, looking for opportunites to continue challenging myself, building applications that will challenge the current technologies and benefit consumers.
+I'm a Full Stack developer, looking for opportunities to continue challenging myself, building applications that will challenge the current technologies and benefit consumers.
 
-Following a 5-year client-facing career in the healthcare sector, I wanted to do a job that I not only enjoyed but would make a difference. Inspired by the recent focus on technologyin the healthcare sector, in early 2020 I found what I had been looking for in software development. 
+Following a 5-year client-facing career in the healthcare sector, I wanted to do a job that I not only enjoyed but would make a difference. Inspired by the recent focus on technology in the healthcare sector, in early 2020 I found what I had been looking for in software development. 
 
 I have recently graduated from [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), learning best practice, tools and methodologies.
 
