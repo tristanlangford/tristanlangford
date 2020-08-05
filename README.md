@@ -14,6 +14,16 @@ Following a 5-year client-facing career in the healthcare sector, I wanted to do
 
 I have recently graduated from [Makers Academy](https://makers.tech/) (London's leading programming bootcamp), learning best practice, tools and methodologies.
 
+<div align="center">
+
+[Projects](#projects) |
+[Skills](#skills) |
+[Experience](#experience) |
+[Education](#education) |
+[Hobbies](#hobbies)
+
+</div>
+
 ## Projects
 
 A summary of the projects I'm most proud of. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.
