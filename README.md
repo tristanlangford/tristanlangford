@@ -34,7 +34,6 @@ A summary of the projects I'm most proud of. All developed with Test Driven Deve
 | **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
 | **[Garmin Score Tracker]**      | A Garmin ConnectIQ App for tracking the score in 5 a-side football. Change and store team name and timer settings                                   | Monkey C | [Get App](https://apps.garmin.com/en-US/apps/5d8fbcc0-b650-4a0d-87dd-f5acb095d1ed)           |
 | **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using HTML, CSS, and JS. | JavaScript, HTML, CSS               |  [Deployed](https://news-article-summary.herokuapp.com/)  
-| **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | [Deployed](https://acebook-brainaics.herokuapp.com/) |
 | **[Bank Tech Test]**           | A CLI program emulating a bank account, showcasing test driven development in multiple languages       | JavaScript, Ruby             |                                                                              |
 | **[Acebook]**    | Group project. Emulating the functionality of Facebook, using Ruby-on-Rails.      | Ruby, Ruby-on-Rails, JavaScript            | [Deployed](https://acebook-brainaics.herokuapp.com/) |
 
@@ -76,6 +75,7 @@ I have worked with a variety of languages, technologies and softwares.
           <li>JavaScript</li>
           <li>HTML5</li>
           <li>CSS3</li>
+         <li>C++</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -86,6 +86,7 @@ I have worked with a variety of languages, technologies and softwares.
           <li>Express</li>
           <li>jQuery</li>
           <li>React</li>
+          <li>Monkey C</li>
           <li>PostgreSQL</li>
           <li>TravisCI</li>
           <li>Heroku</li>
@@ -121,6 +122,7 @@ I have worked with a variety of languages, technologies and softwares.
         <ul>
           <li>VSCode</li>
           <li>Git</li>
+          <li>Eclipse</li>
           <li>Postman</li>
           <li>Windows 10</li>
           <li>OSx</li>
