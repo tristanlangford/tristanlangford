@@ -135,12 +135,12 @@ I have worked with a variety of languages, technologies and softwares.
 
 ## Experience
 
-**Shopify Web Development** (Oct 2020)
+**Web Developer** (Oct 2020)
 
 *Freelance*
 
-- Working with a Marketing Company, migrated food startups to Shopify. Built and customised websites using Shopify themes (Ruby, HTML & CSS).
-- Focused on respoisive web development, working closely with the web designer to build to specification & customer requirements.
+- Working with a Marketing Company, migrating food startups to Shopify. Built and customised websites using Shopify themes (Ruby, HTML & CSS).
+- Focused on responsive web development, working closely with the web designer to build to specification & customer requirements.
 
 **Collaborative Procurement Partnership** (Jan 2019 to May 2020)  
 
