@@ -31,6 +31,7 @@ A summary of the projects I'm most proud of. All developed with Test Driven Deve
 
 | Project/GitHub          | Details                                                                                         | Tech                                | Additional Links                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **[MockingBird]** | Freelance Web Development, working for Digital Marketeer for Food Startups | Ruby, HTML, CSS |  |
 | **[Invimcible]**      | Group project. A top down platformer game to learn Vim commands                                   | Express, React, Node, Redux | [Deployed](https://vimvincible.netlify.app/), [Backend API](https://github.com/tristanlangford/invimcible_back_end)           |
 | **[Garmin Score Tracker]**      | A Garmin ConnectIQ App for tracking the score in 5 a-side football. Change and store team name and timer settings                                   | Monkey C | [Get App](https://apps.garmin.com/en-US/apps/cf6998d4-e80d-46b7-892a-b64440bc4446)           |
 | **[News Summary]**      | A single page web app, using AJAX to consume the Guardian API, using HTML, CSS, and JS. | JavaScript, HTML, CSS               |  [Deployed](https://news-article-summary.herokuapp.com/)  
@@ -134,6 +135,13 @@ I have worked with a variety of languages, technologies and softwares.
 
 ## Experience
 
+**Shopify Web Development** (Oct 2020)
+
+*Freelance*
+
+- Working with a Marketing Company, migrated food startups to Shopify. Built and customised websites using Shopify themes (Ruby, HTML & CSS).
+- Focused on respoisive web development, working closely with the web designer to build to specification & customer requirements.
+
 **Collaborative Procurement Partnership** (Jan 2019 to May 2020)  
 
 *Category Manager*  
@@ -187,6 +195,7 @@ I have worked with a variety of languages, technologies and softwares.
 
 <!-- Project Links -->
 
+[Mockingbird]: https://www.mockingbirdspirit.com/
 [Invimcible]: https://github.com/RaeRachael/invimcible_front_end
 [Acebook]: https://github.com/tristanlangford/acebook-brainaics
 [Bank Tech Test]: https://github.com/tristanlangford/bank_tech_test
